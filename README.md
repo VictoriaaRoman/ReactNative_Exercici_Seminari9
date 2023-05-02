@@ -1,0 +1,1 @@
+# ReactNative_Exercici_Seminari9
